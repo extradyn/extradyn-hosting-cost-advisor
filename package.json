@@ -1,7 +1,7 @@
 {
-  "name": "grafana-hosting-cost-advisor",
+  "name": "extradyn-hosting-cost-advisor",
   "private": true,
-  "version": "1.0.0",
+  "version": "0.0.1",
   "description": "",
   "main": "index.js",
   "scripts": {
@@ -10,12 +10,12 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/extradyn/grafana-hosting-cost-advisor.git"
+    "url": "git+https://github.com/extradyn/extradyn-hosting-cost-advisor.git"
   },
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/extradyn/grafana-hosting-cost-advisor/issues"
+    "url": "https://github.com/extradyn/extradyn-hosting-cost-advisor/issues"
   },
   "engines": {
     "node": "6.12.3"
@@ -46,5 +46,5 @@
     "lodash": "^4.17.4",
     "mocha": "^3.2.0"
   },
-  "homepage": "https://github.com/extradyn/grafana-hosting-cost-advisor#readme"
+  "homepage": "https://github.com/extradyn/extradyn-hosting-cost-advisor#readme"
 }
